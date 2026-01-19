@@ -1,4 +1,13 @@
-/*
-!/resourcepacks
-!/mods
-!.gitignore
+.fabric
+config
+data
+downloads
+journeymap
+logs
+saves
+screenshots
+command_history.txt
+options.txt
+realms_persistence.json
+servers.dat
+servers.dat_old
