@@ -1,4 +1,5 @@
 .fabric
+1.21.1
 config
 data
 downloads
@@ -11,3 +12,4 @@ options.txt
 realms_persistence.json
 servers.dat
 servers.dat_old
+instgroups.json
