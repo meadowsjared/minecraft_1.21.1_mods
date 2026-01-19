@@ -1,16 +1,16 @@
-# Minecraft 1.21.11 Modpack (Fabric)
+# Minecraft 1.21.1 Modpack (NeoForge)
 
-This repository contains the configuration, **mods**, and **resource packs** for my Minecraft 1.21.11 server/profile.
+This repository contains the configuration, **mods**, and **resource packs** for my Minecraft 1.21.1 server/profile.
 
 ## 🚀 Overview
-* **Game Version:** Minecraft 1.21.11
-* **Mod Loader:** Fabric
+* **Game Version:** Minecraft 1.21.1
+* **Mod Loader:** NeoForge
 * **Included:** Mods & Resource Packs
-* **Repository:** [https://github.com/meadowsjared/minecraft_1.21.11_mods.git](https://github.com/meadowsjared/minecraft_1.21.11_mods.git)
+* **Repository:** [https://github.com/meadowsjared/minecraft_1.21.1_mods.git](https://github.com/meadowsjared/minecraft_1.21.1_mods.git)
 
 ## 📦 Requirements
 1.  **Minecraft Java Edition** installed.
-2.  **Fabric Loader** installed for version **1.21.11**.
+2.  **Prism Launcher** installed for version **1.21.1**.
 
 ## ⚙️ Installation (The Clean Way)
 To keep these mods separate from your other Minecraft versions and allow for easy updates, follow these steps:
