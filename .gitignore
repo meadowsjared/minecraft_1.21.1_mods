@@ -1,5 +1,9 @@
 .fabric
-1.21.1
+1.21.1/*
+1.21.1/minecraft/*
+!1.21.1/minecraft/
+!1.21.1/minecraft/mods/
+1.21.1/minecraft/mods/.connector/
 1.21.1_2
 config
 data
